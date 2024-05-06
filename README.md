@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadAhmad21042002
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on C++ Projects
+- 👀 I’m interested in Coding and Artificial Intelligence
+- 🌱 I’m currently learning and working on AI Projects
+- 💞️ I’m looking to collaborate on Machine Learning/ Deep Learning Projects
 - 📫 You can contact me via my email
 
 <!---
